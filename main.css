@@ -1,0 +1,6 @@
+:root {
+    --texthead: red;
+}
+h2{
+    color: var(--texthead);
+}
